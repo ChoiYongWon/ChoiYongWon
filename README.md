@@ -1,4 +1,4 @@
-### Hi there 👋
+### 꾸미기 귀찮다 👋
 
 <!--
 **ChoiYongWon/ChoiYongWon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
