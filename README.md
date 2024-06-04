@@ -6,8 +6,11 @@
 - 이론에 과하게 집착하기보다는 최소한의 이론을 바탕으로 경험을 통해 학습하는것을 선호합니다.
 
 ## Link
-Resume - [resume.rtolzo.dev](https://resume.rtolzo.dev)  
-TIL Blog - [til.rtolzo.dev](https://til.rtolzo.dev)  
+
+| link  | description |
+| ------------- | ------------- |
+| [resume.rtolzo.dev](https://resume.rtolzo.dev)  | 최용원 이력서 Frontend Engineer  |
+| [til.rtolzo.dev](https://til.rtolzo.dev)  | 기억하고 활용하기 위해 기록하는 공간|
 
 ## On Service
 | service  | description |
