@@ -13,7 +13,7 @@ TIL Blog - [til.rtolzo.dev](https://til.rtolzo.dev)
 | service  | description |
 | ------------- | ------------- |
 | [a-spot-thur.app](https://a-spot-thur.app)  | 위치를 기반한 오프라인 취미활동에 재미를 더하고자 자신만의 장소를 기록하고 공유할 수 있는 서비스  |
-| [jyj-vercel.app](https://jyj-vercel.app)  | 신세계 정용진 부회장의 맛집 지도  |
+| [jyj-map.vercel.app](https://jyj-map.vercel.app)  | 신세계 정용진 부회장의 맛집 지도  |
 | [choiyongwon.github.io/GuitarSheet](https://choiyongwon.github.io/GuitarSheet)  | 기타 악보 제작 웹 서비스  |
     
     
