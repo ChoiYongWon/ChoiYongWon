@@ -1,14 +1,22 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchoiyongwon&count_bg=%23555555&title_bg=%23555555&icon=googleanalytics.svg&icon_color=%23E7E7E7&title=Today%2FTotal&edge_flat=false)](https://hits.seeyoufarm.com)
 
+
+# 최용원 _ChoiYongWon_
+
+👨‍💻 Frontend Engineer
+
+[![TypeScript Badge](https://img.shields.io/badge/Typescript-235A97?style=flat-square&logo=Typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)](https://reactjs.org/)
+[![Next Badge](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)](https://nextjs.org/)
+
+[RESUME](https://resume.rtolzo.dev) | [TIL BLOG](https://til.rtolzo.dev)  
+
 ## Introduce
+
 - 사이드 프로젝트를 통해 아이디어를 실체화하는 것을 좋아합니다.
 - 성장을 위해 점진적인 과부하를 지속적으로 거는 것을 선호합니다.
 - 이론에 과하게 집착하기보다는 최소한의 이론을 바탕으로 경험을 통해 학습하는것을 선호합니다.
 
-## Link
-
-Resume - [resume.rtolzo.dev](https://resume.rtolzo.dev)  
-TIL Blog - [til.rtolzo.dev](https://til.rtolzo.dev)  
 
 ## On Service
 | service  | description |
