@@ -21,7 +21,8 @@
 ## On Service
 | service  | description | year |
 | ------------- | ------------- | ------------- |
- [saladboard.liruit.kr/](https://saladboard.liruit.kr/)  | 한 달의 소비를 A4 한 장으로 정리하는 가계부  | 2026 |
+| [oilgi.liruit.kr/](https://oilgi.liruit.kr/)  | 구글 캘린더에 기록된 소중한 일상을 한 권의 책처럼 간직할 수 있도록 돕는 PDF 변환 서비스  | 2026 |
+| [saladboard.liruit.kr/](https://saladboard.liruit.kr/)  | 한 달의 소비를 A4 한 장으로 정리하는 가계부  | 2026 |
 | [a-spot-thur.app](https://a-spot-thur.app)  | 위치를 기반한 오프라인 취미활동에 재미를 더하고자 자신만의 장소를 기록하고 공유할 수 있는 서비스  | 2024 |
 | [jyj-map.vercel.app](https://jyj-map.vercel.app)  | 신세계 정용진 부회장의 맛집 지도  | 2021 |
 | [choiyongwon.github.io/GuitarSheet](https://choiyongwon.github.io/GuitarSheet)  | 기타 악보 제작 웹 서비스  | 2020 |
